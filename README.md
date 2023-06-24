@@ -1,2 +1,1 @@
-# django_feature_flag
-For feature controller
+"Django Feature Flag" is a powerful open-source project hosted on GitHub that allows developers to easily implement feature flags in their Django applications. With this tool, you can seamlessly enable or disable features, perform A/B testing, and gradually roll out new functionalities to specific user groups. Its intuitive interface and comprehensive documentation make it a must-have for Django developers seeking efficient feature management.
